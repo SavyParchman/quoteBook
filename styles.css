@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+    font-size: 14px;
+    font-family: Roboto;
+}
+
+h1 {
+    padding-top: 5px;
+    padding-left: 20px;
+    font-size: 38px;
+}
+
+.banner {
+    margin: -10px;
+    padding: 20px;
+    background-color: #222226;
+    color: white;
+    font-variant: small-caps;
+    border-radius: 2px;
+}
+
+.quoteCard {
+    background-color: white;
+    text-align: justify;
+    line-height: 40px;
+    color: black;
+    font-size: 16px;
+    border: 1px solid black;
+    padding: 20px 25px;
+    border-radius: 2px;
+}
+
+button {
+    padding: 2px 15px;
+    transition-duration: 0.4s;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+    
+button:hover {
+    background-color: black;
+    color: white;
+}
+
